@@ -1,0 +1,14 @@
+{
+    "name": "crm/simple-crm",
+    "description": "Simple CRM with Vanilla PHP and NoSQL",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
