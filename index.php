@@ -8,7 +8,7 @@ if (!(new \App\Services\LicensingService())->isValid()) {
 }
 
 /**
- * dadmin CRM - Root Entry Point
+ * https://adanisolarfranchise.in/
  * Version: 1.4.0
  */
 
